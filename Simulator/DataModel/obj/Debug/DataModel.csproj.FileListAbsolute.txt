@@ -1,0 +1,11 @@
+C:\_data\exemple facultate\Simulator\Simulator\DataModel\bin\Debug\DataModel.dll
+C:\_data\exemple facultate\Simulator\Simulator\DataModel\bin\Debug\DataModel.pdb
+C:\_data\exemple facultate\Simulator\Simulator\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\_data\exemple facultate\Simulator\Simulator\DataModel\obj\Debug\DataModel.dll
+C:\_data\exemple facultate\Simulator\Simulator\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\DataModel\bin\Debug\DataModel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\DataModel\obj\Debug\DataModel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\DataModel\obj\Debug\DataModel.pdb

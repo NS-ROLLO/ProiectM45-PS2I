@@ -1,0 +1,37 @@
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+C:\_data\exemple facultate\Simulator\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.deps.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\bin\Debug\netstandard2.0\MobileApp.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csprojAssemblyReference.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfoInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.AssemblyInfo.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\ref\MobileApp.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\MobileApp\MobileApp\obj\Debug\netstandard2.0\MobileApp.pdb

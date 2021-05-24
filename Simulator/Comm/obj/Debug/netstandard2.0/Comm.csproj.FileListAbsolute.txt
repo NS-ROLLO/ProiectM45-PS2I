@@ -1,0 +1,26 @@
+C:\_data\exemple facultate\Simulator\Simulator\Comm\bin\Debug\netstandard2.0\Comm.deps.json
+C:\_data\exemple facultate\Simulator\Simulator\Comm\bin\Debug\netstandard2.0\Comm.dll
+C:\_data\exemple facultate\Simulator\Simulator\Comm\bin\Debug\netstandard2.0\Comm.pdb
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csprojAssemblyReference.cache
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfoInputs.cache
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfo.cs
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.dll
+C:\_data\exemple facultate\Simulator\Simulator\Comm\obj\Debug\netstandard2.0\Comm.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\bin\Debug\netstandard2.0\Comm.deps.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\bin\Debug\netstandard2.0\Comm.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\bin\Debug\netstandard2.0\Comm.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csprojAssemblyReference.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfoInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfo.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Comm\obj\Debug\netstandard2.0\Comm.pdb
+C:\Users\Raul\Desktop\test]\Simulator\Comm\bin\Debug\netstandard2.0\Comm.deps.json
+C:\Users\Raul\Desktop\test]\Simulator\Comm\bin\Debug\netstandard2.0\Comm.dll
+C:\Users\Raul\Desktop\test]\Simulator\Comm\bin\Debug\netstandard2.0\Comm.pdb
+C:\Users\Raul\Desktop\test]\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\test]\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\test]\Simulator\Comm\obj\Debug\netstandard2.0\Comm.AssemblyInfo.cs
+C:\Users\Raul\Desktop\test]\Simulator\Comm\obj\Debug\netstandard2.0\Comm.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\test]\Simulator\Comm\obj\Debug\netstandard2.0\Comm.dll
+C:\Users\Raul\Desktop\test]\Simulator\Comm\obj\Debug\netstandard2.0\Comm.pdb

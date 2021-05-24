@@ -1,0 +1,23 @@
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\bin\Debug\ConsoleConsumer.exe.config
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\bin\Debug\ConsoleConsumer.exe
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\bin\Debug\ConsoleConsumer.pdb
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.csprojAssemblyReference.cache
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.csproj.CopyComplete
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.exe
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.pdb
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\bin\Debug\DataModel.dll
+C:\_data\exemple facultate\Simulator\Simulator\ConsoleConsumer\bin\Debug\DataModel.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\bin\Debug\ConsoleConsumer.exe.config
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\bin\Debug\ConsoleConsumer.exe
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\bin\Debug\ConsoleConsumer.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\bin\Debug\DataModel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\bin\Debug\DataModel.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.csprojAssemblyReference.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.csproj.CopyComplete
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.exe
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\ConsoleConsumer\obj\Debug\ConsoleConsumer.pdb

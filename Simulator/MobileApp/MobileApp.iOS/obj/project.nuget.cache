@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVye/5uwF9Vhxj7RfUwdPr6JD1ijtssy1kJNWrirYTBUzLIcomDYCsBqSF2pIKQrM2sYZ4rFNrWM8ryTaxvc0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel.Borlea\\OneDrive - Access UK Ltd\\Desktop\\PS2-2020\\Simulator + monitorizare\\Simulator\\MobileApp\\MobileApp.iOS\\MobileApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel.Borlea\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Daniel.Borlea\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Daniel.Borlea\\.nuget\\packages\\xamarin.forms\\4.3.0.908675\\xamarin.forms.4.3.0.908675.nupkg.sha512"
+  ],
+  "logs": []
+}

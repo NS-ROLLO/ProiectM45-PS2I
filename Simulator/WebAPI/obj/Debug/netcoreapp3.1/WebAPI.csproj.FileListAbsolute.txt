@@ -1,0 +1,295 @@
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\_data\exemple facultate\Simulator\Simulator\WebAPI\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+C:\Users\Raul\Desktop\test]\Simulator\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache

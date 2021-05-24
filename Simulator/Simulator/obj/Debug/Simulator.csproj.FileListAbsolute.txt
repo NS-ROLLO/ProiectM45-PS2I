@@ -1,0 +1,475 @@
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\Simulator.exe.config
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\MainWindow.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\App.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\MainWindow.baml
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.g.resources
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\MyControl.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\MyControl.baml
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\Images\Macheta.jpg
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\netstandard.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.AppContext.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Collections.Concurrent.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Collections.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Collections.NonGeneric.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Collections.Specialized.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.ComponentModel.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.ComponentModel.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Console.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Data.Common.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.Contracts.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.Debug.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.Process.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.Tools.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Diagnostics.Tracing.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Drawing.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Dynamic.Runtime.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Globalization.Calendars.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Globalization.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Globalization.Extensions.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.Compression.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.FileSystem.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.IsolatedStorage.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.Pipes.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Linq.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Linq.Expressions.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Linq.Parallel.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Linq.Queryable.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.Http.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.NameResolution.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.NetworkInformation.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.Ping.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.Requests.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.Security.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.Sockets.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.WebSockets.Client.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Net.WebSockets.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.ObjectModel.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Reflection.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Reflection.Extensions.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Reflection.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Resources.Reader.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Resources.ResourceManager.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Resources.Writer.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.Extensions.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.Handles.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.Numerics.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.Claims.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.Principal.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Security.SecureString.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Text.Encoding.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Text.RegularExpressions.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Threading.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Threading.Overlapped.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Threading.Tasks.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Threading.Thread.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Threading.ThreadPool.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Threading.Timer.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.ValueTuple.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Xml.ReaderWriter.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Xml.XDocument.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Xml.XmlDocument.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Xml.XmlSerializer.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Xml.XPath.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\Comm.dll
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\bin\Debug\Comm.pdb
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.exe.config
+C:\_data\exemple facultate\Simulator\Simulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\Images\Macheta.jpg
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\netstandard.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.AppContext.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Collections.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.ComponentModel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Console.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Data.Common.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Globalization.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.Compression.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.Pipes.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Linq.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.Http.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.Ping.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.Requests.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.Security.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.Sockets.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.ObjectModel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Reflection.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Resources.Reader.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Resources.Writer.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.Claims.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.Principal.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Security.SecureString.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Text.Encoding.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Threading.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Threading.Thread.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Threading.Timer.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.ValueTuple.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Xml.XPath.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\Comm.dll
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\bin\Debug\Comm.pdb
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.exe.config
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\MyControl.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\App.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\MainWindow.baml
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\MyControl.baml
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\Daniel.Borlea\OneDrive - Access UK Ltd\Desktop\PS2-2020\Simulator + monitorizare\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\Images\Macheta.jpg
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\netstandard.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.AppContext.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Collections.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.ComponentModel.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Console.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Data.Common.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Globalization.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.Compression.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.Pipes.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Linq.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.Http.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.Ping.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.Requests.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.Security.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.Sockets.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.ObjectModel.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Reflection.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Resources.Reader.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Resources.Writer.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.Claims.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.Principal.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Security.SecureString.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Text.Encoding.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Threading.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Threading.Thread.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Threading.Timer.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.ValueTuple.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Xml.XPath.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\Comm.dll
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\bin\Debug\Comm.pdb
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.exe.config
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\MyControl.g.cs
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\App.g.cs
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\MainWindow.baml
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\MyControl.baml
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\Raul\Desktop\test]\Simulator\Simulator\obj\Debug\Simulator.pdb
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\Images\Macheta.jpg
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\netstandard.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.AppContext.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Collections.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.ComponentModel.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Console.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Data.Common.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Globalization.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.Compression.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.Pipes.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Linq.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.Http.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.Ping.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.Requests.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.Security.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.Sockets.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.ObjectModel.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Reflection.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Resources.Reader.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Resources.Writer.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.Claims.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.Principal.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Security.SecureString.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Text.Encoding.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Threading.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Threading.Thread.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Threading.Timer.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.ValueTuple.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Xml.XPath.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\Comm.dll
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\bin\Debug\Comm.pdb
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.exe.config
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\MyControl.g.cs
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\App.g.cs
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\MainWindow.baml
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\MyControl.baml
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.g.resources
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\Raul\Desktop\M45 2021 STSSC\Simulator\Simulator\obj\Debug\Simulator.pdb
